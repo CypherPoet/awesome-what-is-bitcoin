@@ -11,15 +11,17 @@
 
 
 <br/>
-<br/>
 
 # 🎙 Soundbites
 
 ### Short Form
 
+- [Murad Mahmudov: "Eliminate the idea of monetary policy"](https://www.youtube.com/watch?v=c8eh7LayhqQ&list=WL&t=4270s) - Soundbite from an episode of _[Support and Resistance](https://www.youtube.com/channel/UCNWgHZl_rDrcjcVNu5my-IQ/featured)_.
+
 ### Long Form
 
 - [Murad Mahmudov: The Ultimate Bitcoin Argument](https://www.youtube.com/watch?v=UMK_A0mF8PQ) - Episode of _Off the Chain with Anthony Pompliano_.
+
 
 
 <br/>
