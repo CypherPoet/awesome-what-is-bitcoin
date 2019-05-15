@@ -1,6 +1,6 @@
 # Awesome What Is Bitcoin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of excellent responses to the question &#34;What is Bitcoin?&#34;
+> A curated list of antifragile responses to the question &#34;What is Bitcoin?&#34;
 
 📝 **Note:** This isn't meant to be a [comprehensive list](https://github.com/igorbarinov/awesome-bitcoin) of [Bitcoin](https://www.lopp.net/bitcoin-information.html) [educational](https://lightninghood.com/bitcoin-resources/) [material](https://nakamotoinstitute.org/). It's more of a place you can direct people to when they discover Bitcoin for the first time, and decide to ask you, the leading expert, what it's all about 😉.
 
