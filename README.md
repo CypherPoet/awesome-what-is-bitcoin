@@ -54,6 +54,7 @@
 - [_Why Bitcoin Matters for Freedom_](http://time.com/5486673/bitcoin-venezuela-authoritarian/) - an article in _Time_ by [Alex Gladstein](https://twitter.com/gladstein)
 
 - [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) - an illustrated guide to how Bitcoin works.
+- [Bitcoin enables money as language, not as a belief system](https://twitter.com/cypher_poet/status/1128282488281997312) - a glimpse at how the separation of money and state is one of Bitcoin's most important &mdash; and often overlooked &mdash; concepts.
 
 ### Long(ish) Form
 
@@ -80,7 +81,7 @@ Some upscale steakhouses to consider now that you and Bitcoin have made an acqua
 - [Lightning Hood's Bitcoin resources list](https://lightninghood.com/bitcoin-resources/)
 - [Lightning Hood's Lightning Network resources list](https://lightninghood.com/lightning-resources/)
 - [Recommended readings of the Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/).
-
+- [Saifedean Ammous's Bitcoin Standard Research Bulletin](https://thesaifhouse.wpcomstaging.com/subscribe-to-my-research-bulletin/)
 
 <br/>
 <br/>
