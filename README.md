@@ -82,6 +82,7 @@ Some upscale steakhouses to consider now that you and Bitcoin have made an acqua
 - [Lightning Hood's Lightning Network resources list](https://lightninghood.com/lightning-resources/)
 - [Recommended readings of the Satoshi Nakamoto Institute](https://nakamotoinstitute.org/literature/).
 - [Saifedean Ammous's Bitcoin Standard Research Bulletin](https://thesaifhouse.wpcomstaging.com/subscribe-to-my-research-bulletin/)
+- [402 Payment Required's YouTube Channel](https://www.youtube.com/channel/UC_62FowZPxGB6ysv4mcj20A) - video tutorials on how to _use_ Bitcoin and the many tools in its ecosystem.
 
 <br/>
 <br/>
