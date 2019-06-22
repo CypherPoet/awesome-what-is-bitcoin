@@ -76,6 +76,7 @@
 
 Some upscale steakhouses to consider now that you and Bitcoin have made an acquaintance.
 
+- [Bitcoin Resources list by @dergigi](https://dergigi.com/bitcoin/resources/)
 - [Jameson Lopp's list of Bitcoin resources](https://www.lopp.net/bitcoin-information.html)
 - [Jameson Lopp's list of Lightning Network resources](https://www.lopp.net/lightning-information.html)
 - [Lightning Hood's Bitcoin resources list](https://lightninghood.com/bitcoin-resources/)
